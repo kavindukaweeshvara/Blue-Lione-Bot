@@ -54,24 +54,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "nipuna rangana" //ur owner name
-global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
-global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['94761332025'] //ur owner number
+global.ownername = "꧁༺silͥent bͣoͫt༻꧂༒⁶⁶⁶" //ur owner name
+global.ytname = "not now " //ur yt chanel name
+global.socialm = "GitHub: kavindukaweeshvara" //ur github or insta name
+global.location = "Sri Lanka, North western province, kuruneegala " //ur location
 
 //bot bomdy
-global.owner = ['94714188730'] //ur number 
-global.ownertag = '94714188730' //ur tag number
-global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
+global.owner = ['94761332025'] //ur number 
+global.ownertag = '94761332025' //ur tag number
+global.botname = '📶 ꧁༺silͥent bͣoͫt༻꧂༒⁶⁶⁶ 📶' //ur bot name
 global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark packname
-global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark author
-global.menumoji ="💖"
+global.reactmoji = "🗃️" //ur menu react emoji
+global.themeemoji = "👁️" //ur theme emoji
+global.packname = "📶 ꧁༺silͥent bͣoͫt༻꧂༒⁶⁶⁶ 📶" //ur sticker watermark packname
+global.author = "📶 ꧁༺silͥent bͣoͫt༻꧂༒⁶⁶⁶ 📶" //ur sticker watermark author
+global.menumoji ="💝"
 global.menuimg = "https://i.ibb.co/0mDLtyr/f2337149532299-58b7611d91faf.jpg" //ur alive img link [https://i.ibb.co]
 global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
 //Bot theme media
@@ -108,19 +108,19 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
+    admin: 'This Feature Is Only For Admin!😎',
+    botAdmin: 'Bot Must Be Admin First!😊',
+    owner: 'This Feature Is Only For Owner!😌',
+    group: 'Feature Used Only For Groups!😉',
+    private: 'Features Used Only For Private Chat!😉',
+    bot: 'This Feature Is Only For Bot🙄',
     wait: 'In process...',
     linkm: 'Where is the link?',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.😈',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    banChat: 'The bot was banned in this group, please contact the owner to unban😈'
 }
     global.limitawal = {
     premium: "Infinity",
