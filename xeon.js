@@ -3,7 +3,7 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 kavee Bot Inc. Dark nero Bot MD 
+//© 2022 kavee Bot Inc. Dark nero Bot MD up
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 // my owenr kaveesha
@@ -178,7 +178,7 @@ Time ⏰ =  ${xtime} `
 let buttonMessage = {
     image: { url: 'https://i.ibb.co/hXtGkzj/welcome-poster-spectrum-brush-strokes-white-background-colorful-gradient-brush-design-vector-paper-i.jpg'},
 caption: xeonbody,
-footer: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶`,
+footer: `📶 ꧁༺silͥent bͣoͫt༻꧂༒⁶⁶⁶ 📶`,
 buttons,
 headerType: 4
 }
@@ -205,7 +205,7 @@ Time ⏰ =  ${xeontime} `
     let buttonMessage = {
         image: { url: 'https://i.ibb.co/gytytkM/images.jpg'},
     caption: xeonbody,
-    footer: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶`,
+    footer: `📶 ꧁༺silͥent bͣoͫt༻꧂༒⁶⁶⁶ 📶`,
     buttons,
     headerType: 4
     }
